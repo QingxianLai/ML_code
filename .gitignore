@@ -1,0 +1,9 @@
+*.csv
+*.png
+*.lyx
+*.log
+*.aux
+*.tex
+*.gz
+*.txt
+*.pyc
