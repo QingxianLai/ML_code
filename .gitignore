@@ -7,3 +7,5 @@
 *.gz
 *.txt
 *.pyc
+**/.idea
+**/.ipynb_checkpoints
